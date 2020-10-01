@@ -1,6 +1,8 @@
-# login_app
+# flutter_login_app_design
 
-A new Flutter application.
+It is just a UI for login applications which I had Designed for practice purpose only.
+
+Application Design Credit: https://dribbble.com/shots/5239966-Daily-UI-001
 
 ## Getting Started
 
