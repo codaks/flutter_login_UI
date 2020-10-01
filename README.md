@@ -1,6 +1,8 @@
 # flutter_login_app_design
 
 It is just a UI for login applications which I had Designed for practice purpose only.
+Designed Screenshot
+![image1](https://user-images.githubusercontent.com/48233397/94787320-cd380600-03ef-11eb-847a-cf9e43b2a322.png)
 
 Application Design Credit: https://dribbble.com/shots/5239966-Daily-UI-001
 
